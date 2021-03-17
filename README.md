@@ -1,2 +1,1 @@
-# python_study
-Python study
+# python 学习，python相关代码库。
